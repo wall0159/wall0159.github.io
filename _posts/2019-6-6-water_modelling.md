@@ -4,7 +4,6 @@ title: Rainwater modelling
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/keith_analytics_long_logo.png)
 
 The Problem:
 ============

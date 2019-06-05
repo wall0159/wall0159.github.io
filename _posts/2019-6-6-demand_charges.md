@@ -4,7 +4,6 @@ title: Demand charges and energy efficiency – what place for solar PV and batt
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/keith_analytics_long_logo.png)
 
 Business customers for electricity often have two components to their bill. One component, consumption, is calculated from the amount of electricity used. The other, demand, is calculated from the maximum rate at which they used the electricity. Consumption (kWh) can be compared to a volume of water measured in Litres, whereas demand (kW or kVA) is like the speed at which water is coming out of a tap (Litres per minute).
 
