@@ -3,14 +3,14 @@
 #
 
 # Name of your site (displayed in the header)
-name: Angus Wallace 
+name: Keith Analytics 
 
 # Short bio or description (displayed in the header)
-description: Keith Analytics provides energy analysis, modelling and interpretation to industry, to assist with productivity and efficiency optimisation. We help clients maximise the bang-for-buck of their energy expenditure, also helping to minimise the environmental impact of their energy consumption.
+description: We provide energy analysis, modelling and interpretation to industry, to assist with productivity and efficiency optimisation. We help clients maximise the bang-for-buck of their energy expenditure, also helping to minimise the environmental impact of their energy consumption.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/wall0159/wall0159.github.io/blob/master/images/keith_analytics_long_logo.png 
-
+# avatar: https://github.com/wall0159/wall0159.github.io/blob/master/images/keith_analytics_long_logo.png 
+avatar: http://keith-analytics.com.au/images/keith_analytics_long_logo.png
 #
 # Flags below are optional
 #
