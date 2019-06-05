@@ -9,7 +9,7 @@ name: Angus Wallace
 description: Keith Analytics provides energy analysis, modelling and interpretation to industry, to assist with productivity and efficiency optimisation. We help clients maximise the bang-for-buck of their energy expenditure, also helping to minimise the environmental impact of their energy consumption.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://github.com/wall0159/wall0159.github.io/blob/master/images/keith_analytics_long_logo.png 
 
 #
 # Flags below are optional
@@ -25,11 +25,11 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  rss: true # just type anything here for a working RSS icon
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: keith-analytics.com.au
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
