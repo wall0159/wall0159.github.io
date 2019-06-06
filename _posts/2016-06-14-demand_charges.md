@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demand charges and energy efficiency – what place for solar PV and battery storage? 
+title: Demand charges and energy efficiency: what place for solar PV and battery storage? 
 ---
 
 
