@@ -9,6 +9,7 @@ The Problem:
 ============
 “Do we have enough rainwater? Will we run out?”
 A common question for those who lack access to town water, or want to run their premises solely on rainwater. How much rainwater capture-and-storage is needed?
+
 The Solution:
 =============
 The Australian Bureau of Meteorology has detailed rainfall data going back nearly 150 years. I built a model of rainwater catchment and consumption that consisted of two parts:
