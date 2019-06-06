@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am Dr Angus Wallace, an expert data analyst, having more than 12 years’ experience in analysis, modelling and interpretation. I bring a wealth of scientific and academic rigour, as well as much practical engineering experience. This means that conclusions are sound, thorough and methodical, having a basis in engineering and the sciences. My engineering experience means that I can offer practical recommendations from these solutions and can project-manage their implementation.
+I am Dr Angus Wallace, an experienced data scientist and engineer, having more than 12 years’ experience in analysis, modelling and interpretation. I bring a wealth of scientific and academic rigour, as well as much practical engineering experience. This means that conclusions are sound, thorough and methodical, having a basis in engineering and the sciences. My engineering experience means that I can offer practical recommendations from these solutions and can project-manage their implementation.
 
 I believe that the goals of reducing environmental impact and increasing bottom line are mutually compatible, provided that a holistic and systemic approach is taken.
 
