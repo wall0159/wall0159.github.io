@@ -19,10 +19,11 @@ A month-by-month model of consumption that fluctuated throughout the year. This 
 This models the available roof area and storage capacity. Using known historical rainfall from the Bureau of Meteorology, it tracks how much rainwater was stored each month for the period for which rainfall records exist.
 ## Synthesis
 These two models are then combined in a time-series model, which shows how the known rainfall, proposed system configuration and consumption model would have interacted historically. This is very useful in assessing the frequency that the premises would have run out of water.
+
+![_config.yml]({{ site.baseurl }}/images/rainwater_graph.png)
 ## Conclusion
 The model allows one to explore the interaction of rainwater capture and storage configurations versus water consumption to assess if a given configuration is sufficient at a site. This is a powerful tool for scenario exploration.
 
 If you would like help assessing your rainwater capture-and-storage requirements, please contact me.
 
 ![_config.yml]({{ site.baseurl }}/images/business_card_front.png)
-
