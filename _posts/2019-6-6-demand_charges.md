@@ -15,6 +15,8 @@ It is for this reason that solar PV by itself is often regarded as ineffective a
 
 At Keith Analytics, we have developed a dynamic, time-series model that allows us to analyse the interaction of a hypothetical solar PV installation, a hypothetical battery storage solution, known electrical time-series data and from these estimate both consumption- and demand-effects of different system design parameters. Our experience is that clients find such an analysis very useful in assessing the economics of these proposals. Our model can be tailored to the specifics of the client, resulting in a bespoke analysis that identifies the best balance of sustainability and economics for your client. 
 
+![_config.yml]({{ site.baseurl }}/images/demandBatteryExplore.png)
+
 This is just one example of how Keith Analytics can help you best to serve your clients: please contact me to discuss.
 
 ![_config.yml]({{ site.baseurl }}/images/business_card_front.png)
