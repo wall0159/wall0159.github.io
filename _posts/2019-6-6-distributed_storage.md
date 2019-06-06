@@ -34,13 +34,17 @@ Do not believe people who tell you a system is secure. It is not secure -- it is
 A mitigation:
 =============
 "Solution" is the wrong word here: it's not possible to remove the consequences of attacks -- we can only reduce their consequence and likelihood of success. The distributed battery system needs to communicate, and that communication is inherently insecure. The system needs to be built so that it is resilient to internet-based attacks at the system level. I am not an expert in internet security, but here are my thoughts:
+
 ## The system should be designed with security in mind 
 The critical aspect of the system is its ability to respond to legitimate internet instructions (only!) and react accordingly. The designers need to be aware of the inherent risk of exposing such command and control interfaces to the internet. The security team should have oversight across all teams during the development of this system. There needs to be robust testing of the system(s) (at all levels, from low level to high level) to examine the security implications of design and implementation decisions.
-##The system should be heterogenous
+
+## The system should be heterogenous
 There should be many types of devices communicating on an agreed open protocol. Having many types of devices means that, even if some of them are compromised by an attacker, they are unlikely all to fail (they will be based on different hardware and software making it unlikely that a universal security vulnerability exists). This represents security through diversity.
-##The system should fail-safe
+
+## The system should fail-safe
 The internet should not be the only method of communication between devices. They should second-guess the instructions they receive from the cloud, by performing their own assessments of grid stability. For example, the grid can use frequency modulation to signal whether more generation capacity is needed (eg. if the frequency starts to fall from a nominal 50 Hz to 49 Hz, that is a recognised signal -- this needs to be preserved as a signalling method). In this way, the devices should use the internet as a communications channel where it is available, but not be dependent on it for all aspects of their function.
-##User interface elements should be kept separate from the control systems
+
+## User interface elements should be kept separate from the control systems
 User interfaces are almost always less secure than system interface elements. This is because user interfaces have the added constraint of usability, which is often at odds with security requirements. User interfaces should be through a seperate cloud/web portal that has no direct connection to the system interface.
 
 Conclusion:
