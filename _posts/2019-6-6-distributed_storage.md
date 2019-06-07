@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Distributed energy storage: promise, and perils 
+title: Distributed energy storage - promise, and perils 
 ---
 
 
