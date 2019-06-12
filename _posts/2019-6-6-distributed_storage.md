@@ -8,13 +8,11 @@ title: Distributed energy storage - promise, and perils
 Moves towards distributed storage:
 ==================================
 Great changes are happening in the energy sector and there have been significant developments in the debate around renewable energy in South Australia. Here are some:
- * South Australia had a state-wide blackout. It was variously attributed to a storm, wind turbines, renewable energy, the Australian Energy Market Operator, the phase of the moon, and probably other things.
- * Load shedding (also known as brownouts, or rolling blackouts) was applied to 90000 households in SA on the afternoon of a particularly hot day. This was apparently triple what was requested by the market operator to maintain grid stability, and occurred at a time when a gas-fired power station at Pelican Point (in Adelaide) was idle.
- * Elon Musk, the CEO of Tesla, told South Australia that Tesla can fix our energy problems in 100 days or it's free -- and has completed the installation of the "big battery" within that 100 day period
- * The South Australian government released a comprehensive plan calling for grid level battery storage (100 MW), a government owned gas turbine and other energy initiatives
- * Malcolm Turnbull has proposed an upgrade to the Snowy Mountains hydro facility that will allow it to operate as a pumped hydro plant (effectively a huge battery)
+ * South Australia had a state-wide blackout. 
+ * Load shedding (also known as brownouts, or rolling blackouts) was applied to 90000 households in SA on the afternoon of a particularly hot day. 
+ * In response, the South Australian government commissioned and insalled a large battery (the Hornsdale power reserve) 
 
-On top of this, there were calls to the former Labor government that, as well as embracing a grid-level battery storage system, they should pursue distributed residential energy storage using a scheme such as Reposit (AGL is also rolling out such a system now, called the virtual battery). The Liberal party (subsequently elected), as part of their platform,  also proposed to subsidise home battery systems - a program that is now underway. Although not enforced, this can essentially operate as an internet-coordinated distributed power company that manages home batteries to release energy to the grid during times when the short-term cost (spot price) is high. Households can make money by doing this. Companies like Reposit also offer similar services in other states.
+On top of this, there were calls to the former Labor government that, as well as embracing a grid-level battery storage system, they should pursue distributed residential energy storage using a scheme such as Reposit (AGL is also rolling out such a system now, called the virtual battery). The subsequently-elected Liberal party supported this, and also proposed to subsidise home battery systems - a program that is now underway. Although not enforced, this can essentially operate as an internet-coordinated distributed power company that manages home batteries to release energy to the grid during times when the short-term cost (spot price) is high. Households can make money by doing this. Companies like Reposit also offer similar services in other states.
 
 Why on-grid distributed storage is a great idea:
 ================================================
