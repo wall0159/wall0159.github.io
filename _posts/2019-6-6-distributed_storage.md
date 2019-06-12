@@ -31,7 +31,7 @@ Do not believe people who tell you a system is secure. It is not secure -- it is
 
 A mitigation:
 =============
-"Solution" is the wrong word here: it's not possible to remove the consequences of attacks -- we can only reduce their consequence and likelihood of success. The distributed battery system needs to communicate, and that communication is inherently insecure. The system needs to be built so that it is resilient to internet-based attacks at the system level. I am not an expert in internet security, but here are my thoughts:
+It is not possible to remove the consequences of attacks -- we can only reduce their consequence and likelihood of success. The distributed battery system needs to communicate, and that communication is inherently insecure. The system needs to be built so that it is resilient to internet-based attacks at the system level. I am not an expert in internet security, but here are my thoughts:
 
 ## The system should be designed with security in mind 
 The critical aspect of the system is its ability to respond to legitimate internet instructions (only!) and react accordingly. The designers need to be aware of the inherent risk of exposing such command and control interfaces to the internet. The security team should have oversight across all teams during the development of this system. There needs to be robust testing of the system(s) (at all levels, from low level to high level) to examine the security implications of design and implementation decisions.
