@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Values 
+permalink: /values/
 ---
 
 I believe in honesty, integrity and creativity – that I should explore problems with our clients and colleagues, instead of bringing preconceived ideas or standard solutions. I always endevour to act with the client’s interests at heart, taking care that the client’s wishes and goals are considered throughout the process. I want to earn clients’ and colleagues’ respect and repeat business by offering the best service available and solving difficult problems.
