@@ -16,7 +16,7 @@ In **Machine Learning**, the model is considered to be "on line". This does not 
 
 The danger of buzzwords
 =======================
-The ability of these systems to exhibit complex behaviours is astounding, and it has captured the imagination of people in many different fields. Unfortunately, like many new concepts, the idea can run away from the reality. I have worked with people who have strongly desired to include "Machine Learning" and "Deep Learning" in our product, without really having a clear idea why it was needed or how it would help.
+The ability of these systems to exhibit complex behaviours is astounding, and it has captured the imagination of people in many different fields. Unfortunately, like many new concepts, the idea can run away from the reality. There have been times when there has been significant pressure to include "Machine Learning" and "Deep Learning" in our product, without really having a clear idea why it was needed or how it would help.
 
 In one situation, I was strongly reminded of a washing powder commercial, and could imagine a shiny sales rep telling me that their washing powder was better because it contained "Deep Learning"!
 
