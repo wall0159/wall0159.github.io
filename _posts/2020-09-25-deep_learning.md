@@ -9,7 +9,9 @@ Deep Learning
 The last 15 years has seen an incredible increase in the power of artificial intelligence systems. It is increasingly recognised that AI is going to be a very significant part of future data analysis. In tandem with this, the terms Machine Learning and Deep Learning have become common. The three terms are often used interchangeably, however they represent distinct concepts.
 
 **Artificial Intelligence** is a system that has learnt a relationship using a training method. From the earliest neural networks emplying gradient descent to optimise a handfull of neurons to a newer convolutional neural network trained using Bayesian parameter optimisation, they share a characteristic: the training process tailors the model to fit the data. Once the training stops, the model ceases to adapt.
+
 In **Machine Learning**, the model is considered to be "on line". This does not mean on the internet, instead it means that the model receives feedback during its use and uses that feedback to refine its operation. In practical terms, the feedback is used to continually refine the models internal parameters. This model continues to learn.
+
 **Deep Learning** employs networks that have many layers and attempt to mimic, in some way, the operation of biological systems (such as visual systems). Essentially, a Deep Learning system is a network with many layers.
 
 The danger of buzzwords
@@ -26,10 +28,14 @@ At heart, what we are talking about here, are models. They accept input, and pro
 An important concept to understand, when discussing a model, is that the more parameters the model has, the more sophisticated and complex the model is, the more complex is its representation of a system and **the more data are required to train it**.
 
 If we consider a very simple system, and want to model it by a linear equation, then the model could have the form
+
 y = mx + c
+
 where the output, _y_, is equal to the input _x_ multiplied by the learned parameter _m_ and offset by the learned parameter _c_. Hence, this model has two parameters that need to be learned. In theory, this model needs two data points to ascertain these parameters.
 However, if we want to build a quadratic model instead, eg.
+
 y = ax^2 + bx + c
+
 then the three parameters (_a_, _b_, and _c_) cannot be ascertained with only two data points -- we need at least 3.
 
 I have not discussed statistical power yet, but with real data there are always noise -- our ability to estimate parameters is limited by our ability to measure input and output data accurately, as well as the amount of confounding that is occuring. In essence, for a given amount of data, the simpler the model (and the fewer parameters it contains) then the more accurate will be our estimates of its parameters, and the more certain we can be that our model corresponds to something that is actual rather than being a quirk of the data.
@@ -41,6 +47,7 @@ Artificial Intelligence and Machine learning are great tools (I have worked with
  - cheaper, 
  - require a smaller data set to train, and
  - be understandable/comprehensible.
+
 These are significant advantages.
 
 So why is Machine Learning and Deep Learning popular?
