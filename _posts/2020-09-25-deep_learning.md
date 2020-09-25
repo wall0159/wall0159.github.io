@@ -42,7 +42,7 @@ I have not discussed statistical power yet, but with real data there are always 
 
 What does this mean in practical terms?
 =======================================
-Artificial Intelligence and Machine learning are great tools (I have worked with AI and ML since about 2005), but they are not always the best tool for the job. There are many, many situations where a simple linear or non-linear model (which might have 1/1000th the number of parameters or less) can be a better choice -- even for situations where the real world system seems complex. Often, there are physics principles that can be exploited to help us better model the system with a simpler model. Such a model will be 
+Artificial Intelligence and Machine learning are great tools (I have worked with AI and ML since about 2005), but they are not always the best tool for the job. There are many, many situations where a simple linear or non-linear model (which might have fewer than 1/1000th the number of parameters) can be a better choice -- even for situations where the real world system seems complex. Often, there are physics principles that can be exploited to help us better model the system with a simpler model. Such a model will be 
  - simpler, 
  - cheaper, 
  - require a smaller data set to train, and
