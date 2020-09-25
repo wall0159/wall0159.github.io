@@ -52,8 +52,11 @@ These are significant advantages.
 
 So why is Machine Learning and Deep Learning popular?
 =====================================================
-Simply, Machine Learning and Deep Learning are able to represent systems that linear and non-linear models simply can not model.
-There are times when they are the right tool for the job. I have worked on and supervised students on projects that absolutely have required the use of Machine Learning and Deep Learning systems, that would not have been possible otherwise. But they are not always the best option. In particular, if your problem requires such systems, you should expect at minimum to be collecting thousands of data points.
+Machine Learning and Deep Learning are able to represent systems that linear and non-linear models simply can not model.
+
+There are times when they are the right tool for the job. I have worked on and supervised students on projects that absolutely have required the use of Machine Learning and Deep Learning systems, that would not have been possible otherwise. 
+
+But they are not always the best option. In particular, if your problem requires such systems, you should expect at minimum to be collecting thousands of data points.
 
 Summary
 =======
