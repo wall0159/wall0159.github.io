@@ -17,6 +17,7 @@ The danger of buzzwords
 The ability of these systems to exhibit complex behaviours is astounding, and it has captured the imagination of people in many different fields. Unfortunately, like many new concepts, the idea can run away from the reality. I have worked with businesses who have strongly desired to include "Machine Learning" and "Deep Learning" in their products, without really having a clear idea why they wanted it or how they thought it would help them.
 
 In one situation, I was strongly reminded of a washing powder commercial, and could imagine a shiny sales rep telling me that their washing powder was better because it contained "Deep Learning"!
+
 ![_config.yml]({{ site.baseurl }}/images/washPowder_with_deepLearning.png)
 
 The Limits of Machine Learning and Deep Learning
