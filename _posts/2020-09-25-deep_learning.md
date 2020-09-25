@@ -10,7 +10,7 @@ The last 15 years has seen an incredible increase in the power of artificial int
 
 **Artificial Intelligence** is a system that has learnt a relationship using a training method. From the earliest neural networks emplying gradient descent to optimise a handfull of neurons to a newer convolutional neural network trained using Bayesian parameter optimisation, they share a characteristic: the training process tailors the model to fit the data. Once the training stops, the model ceases to adapt.
 
-In **Machine Learning**, the model is considered to be "on line". This does not mean on the internet, instead it means that the model receives feedback during its use and uses that feedback to refine its operation. In practical terms, the feedback is used to continually refine the models internal parameters. This model continues to learn.
+In **Machine Learning**, the model is considered to be "on line". This does not mean on the internet, instead it means that the model receives feedback during its use and uses that feedback to refine its operation. In practical terms, the feedback is used to continually refine the model's internal parameters. This model continues to learn.
 
 **Deep Learning** employs networks that have many layers and attempt to mimic, in some way, the operation of biological systems (such as visual systems). Essentially, a Deep Learning system is a network with many layers.
 
