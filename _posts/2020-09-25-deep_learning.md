@@ -38,6 +38,8 @@ y = ax^2 + bx + c
 
 then the three parameters (_a_, _b_, and _c_) cannot be ascertained with only two data points -- we need at least 3.
 
+(These models are called "linear in the parameters" because the model terms are additive. Generally, these are the simplest models to implement and have the fewest parameters to estimate)
+
 I have not discussed statistical power yet, but with real data there are always noise -- our ability to estimate parameters is limited by our ability to measure input and output data accurately, as well as the amount of confounding that is occuring. In essence, for a given amount of data, the simpler the model (and the fewer parameters it contains) then the more accurate will be our estimates of its parameters, and the more certain we can be that our model corresponds to something that is actual rather than being a quirk of the data.
 
 What does this mean in practical terms?
@@ -52,7 +54,7 @@ These are significant advantages.
 
 So why is Machine Learning and Deep Learning popular?
 =====================================================
-Machine Learning and Deep Learning are able to represent systems that linear and non-linear models simply can not model.
+Machine Learning and Deep Learning are able to represent systems that linear-in-the-parameters models simply can not model.
 
 There are times when they are the right tool for the job. I have worked on and supervised students on projects that absolutely have required the use of Machine Learning and Deep Learning systems, that would not have been possible otherwise. 
 
