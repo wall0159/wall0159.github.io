@@ -11,6 +11,6 @@ In both professional and personal life, I practise what I preach: cycling and us
 
 ### Contact me
 Ph 0450 443 633
-[angus@keith-analytics.com.au](mailto:angus@keith-analytics.com.au)
+[wallace.angus@gmail.com](mailto:wallace.angus@gmail.com)
 
 ABN: 32 89 30 88 662
