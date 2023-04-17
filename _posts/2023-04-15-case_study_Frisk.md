@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case Study: My work as Consultant Research Lead at Frisk Pty Ltd 
+title: Case Study - My work as Consultant Research Lead at Frisk Pty Ltd 
 ---
 
 Since September 2021 I have worked part-time at Frisk, where I lead the data-science team. In this role, I am responsible for identifying opportunities, conceptualising analytical architectures, improving Frisk’s analytical pipelines, creating/testing proof-of-concept work, and assisting the Engineering team in productionisation. 
@@ -9,4 +9,4 @@ With the data-science team, I have developed proof-of-concept natural language p
 
 ![_config.yml]({{ site.baseurl }}/images/business_card_front.png)
 
-This article is Copyright 2020 by Angus Wallace.
+This article is Copyright 2023 by Angus Wallace.
