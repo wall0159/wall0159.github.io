@@ -8,7 +8,7 @@ I am Dr Angus Wallace, an experienced data scientist and engineer, having more t
 
 I believe that the goals of reducing environmental impact and increasing bottom line are mutually compatible, provided that a holistic and systemic approach is taken.
 
-Because of my extensive modelling and analysis experience, I can offer unique and bespoke analyses, either as a consultant to your organisation or as a contractor to a consultant. My aim is to do great work and help people achieve great things.
+Because of my extensive modelling and analysis experience, I can offer unique and bespoke analyses, either as a consultant to your organisation or as a contractor to a consultant.
 
 ### More Information
 
