@@ -49,7 +49,6 @@ Conclusion:
 ===========
 On many occasions, systems have been designed to use internet platforms with the unconscious assumption that the internet is both safe and persistent. The internet is neither of those things. I hope that the designers of distributed storage are mindful of this, so that their system(s) will be resilient in the face of unexpected communications downtime or malicious attacks.
 
-If you would like help assessing your rainwater capture-and-storage requirements, please contact me.
 
 ![_config.yml]({{ site.baseurl }}/images/business_card_front.png)
 
